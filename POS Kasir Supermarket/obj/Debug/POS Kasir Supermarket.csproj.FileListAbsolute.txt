@@ -1,0 +1,19 @@
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\bin\Debug\POS Kasir Supermarket.exe.config
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\bin\Debug\POS Kasir Supermarket.exe
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\bin\Debug\POS Kasir Supermarket.pdb
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS Kasir Supermarket.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS_Kasir_Supermarket.Form1.resources
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS_Kasir_Supermarket.Properties.Resources.resources
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS Kasir Supermarket.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS Kasir Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS Kasir Supermarket.exe
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS Kasir Supermarket.pdb
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS_Kasir_Supermarket.Registerform.resources
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS_Kasir_Supermarket.KasirDasbord.resources
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS_Kasir_Supermarket.product.resources
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS_Kasir_Supermarket.transaksi.resources
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\bin\Debug\itextsharp.dll
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\bin\Debug\itextsharp.xml
+C:\Users\HP\source\repos\POS Kasir Supermarket\POS Kasir Supermarket\obj\Debug\POS Kasi.52D4DAFC.Up2Date
